@@ -1,6 +1,6 @@
 # JEE Distributed Systems
 
-Educational repository covering core Java Enterprise Edition concepts through hands-on practical projects.
+Educational repository covering core Java Enterprise Edition concepts through hands-on practical projects for **Pr. Yousfi**'s TPs.
 
 ## Projects
 
