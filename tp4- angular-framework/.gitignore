@@ -1,0 +1,54 @@
+# ------------------------------
+# OS / Editor
+# ------------------------------
+.DS_Store
+Thumbs.db
+Desktop.ini
+
+.idea/
+.vscode/
+*.iml
+
+# ------------------------------
+# Logs / temp
+# ------------------------------
+*.log
+logs/
+*.tmp
+*.swp
+
+# ------------------------------
+# Environment / secrets
+# ------------------------------
+.env
+.env.*
+!.env.example
+
+# ------------------------------
+# Backend (Spring Boot / Maven)
+# ------------------------------
+backend/target/
+backend/.mvn/
+backend/.settings/
+backend/.classpath
+backend/.project
+
+# ------------------------------
+# Frontend (Angular / Node)
+# ------------------------------
+frontend/node_modules/
+frontend/dist/
+frontend/.angular/
+frontend/coverage/
+frontend/.cache/
+frontend/npm-debug.log*
+frontend/yarn-debug.log*
+frontend/yarn-error.log*
+frontend/pnpm-debug.log*
+
+# ------------------------------
+# Generic build outputs
+# ------------------------------
+out/
+build/
+
